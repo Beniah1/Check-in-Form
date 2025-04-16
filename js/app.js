@@ -934,7 +934,9 @@ async function downloadCSV() {
     const csvData = data.map((item) => ({
       "Full Name": item.full_name || "",
       Gender: item.gender || "",
-      "Phone Number": item.phone_number || "",
+      "Phone Number": item.phone_number
+        ? "0" + item.phone_number.replace(/^0+/, "")
+        : "",
       Age: item.age || "",
       "Current Level": item.current_level || "",
       "Attendance 2nd": item.attendance_2nd || "",

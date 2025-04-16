@@ -29,6 +29,7 @@ Data Search (formerly TMHT Teens Search) is a user-friendly application designed
 ### 🔧 Setup
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/yourusername/TMHT-Teens-Search.git
    cd TMHT-Teens-Search
@@ -41,22 +42,26 @@ Data Search (formerly TMHT Teens Search) is a user-friendly application designed
 ## 💻 Usage
 
 ### Adding a New Student 👤
+
 1. Click the `+` button in the bottom right corner
 2. Fill in the student's details
 3. Select attendance status
 4. Click 'Save'
 
 ### Searching for Students 🔍
+
 1. Type the student's name in the search bar
 2. Results update in real-time
 3. Click on a card to view full details
 
 ### Downloading Reports 📊
+
 1. Click the 'Download CSV' button (now inside the stats card for better visibility)
 2. Choose save location
 3. Open in Excel or similar software
 
 ### Sensitive Information 🛡️
+
 - Click the shield icon to access sensitive data
 - Enter the password on the unlock screen (with show/hide password option)
 - Use the wide search bar to filter names in the sensitive info table
@@ -65,11 +70,13 @@ Data Search (formerly TMHT Teens Search) is a user-friendly application designed
 ## 🎨 Features in Detail
 
 ### Attendance Tracking
+
 - Track attendance for each Sunday
 - Mark students as Present/Absent
 - View attendance history
 
 ### Student Information
+
 - Full Name
 - Gender
 - Phone Number
@@ -78,12 +85,14 @@ Data Search (formerly TMHT Teens Search) is a user-friendly application designed
 - Attendance Records
 
 ### Statistics
+
 - Total number of students
 - Gender distribution
 - Education level breakdown
 - Monthly attendance trends
 
 ### Sensitive Info Security
+
 - Password required to access sensitive data
 - Modern unlock screen with eye icon to show/hide password
 - No access to sensitive info without correct password
@@ -101,6 +110,7 @@ We welcome contributions! Here's how you can help:
 ## 📝 Monthly Updates
 
 The application is updated monthly to:
+
 - Create new attendance tracking tables
 - Update attendance dates
 - Maintain historical data
@@ -116,6 +126,7 @@ The application is updated monthly to:
 ## 🌟 Support
 
 Need help? Contact us:
+
 - 📧 Email: [your-email@example.com]
 - 💬 Discord: [your-discord-channel]
 - 📱 Phone: [your-phone-number]
